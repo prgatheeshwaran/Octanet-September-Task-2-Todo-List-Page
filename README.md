@@ -5,10 +5,10 @@ Welcome to my OCTANET SEPTEMBER participant repository! In this repository, you'
 
 ### Task - 2
 #### Assigned Task:To-Do List Page
-###📝 To-Do List Web App
+#### 📝 To-Do List Web App
 Welcome to the To-Do List Web App, a simple, elegant, and intuitive way to keep track of your daily tasks and boost productivity. The app is styled with a parchment scroll theme for a unique and visually appealing design.
 
-##✨ Features
+## ✨ Features
 --🏋️ Track daily workouts to stay on top of your fitness goals.
 --🍎 Monitor your diet for a balanced and healthy lifestyle.
 --📖 Plan study sessions to stay productive.
@@ -18,8 +18,16 @@ Welcome to the To-Do List Web App, a simple, elegant, and intuitive way to keep 
 --💧 Hydration reminder: Stay hydrated by tracking your water intake.
 --😴 Sleep tracker: Ensure you're getting enough rest with the built-in sleep tracker.
 
-##🚀 Technologies Used
+## 🚀 Technologies Used
 --HTML: For the structure of the app.
 --CSS: For beautiful styling of the scroll layout and design.
 
-##📸 Screenshot
+## 📸 Screenshot
+![src](https://github.com/user-attachments/assets/98e291e5-293b-41f5-a5dc-6a05c0ab3749)
+
+#### Contact
+
+If you have any questions or feedback, feel free to contact me.
+
+Happy Coding!😊
+
