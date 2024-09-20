@@ -25,7 +25,7 @@ Welcome to the To-Do List Web App, a simple, elegant, and intuitive way to keep 
 ## 📸 Screenshot
 ![src](https://github.com/user-attachments/assets/98e291e5-293b-41f5-a5dc-6a05c0ab3749)
 
-#### Contact
+#### 📧 Contact
 
 If you have any questions or feedback, feel free to contact me.
 
